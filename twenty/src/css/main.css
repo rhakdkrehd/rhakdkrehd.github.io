@@ -25,7 +25,7 @@ header{
     width: 50px;
     height: 48.7291px;
     margin: 0 auto;
-    background-image: url(../img/logo.png);
+    background-image: url(../Img/logo.png);
 }
 
 nav{
@@ -42,7 +42,7 @@ nav{
     height: 33.9024px;
     margin: 0 auto;
     margin-bottom: 32.8989px;
-    background-image: url(../img/myPage.png);
+    background-image: url(../Img/myPage.png);
     background-size: 100% 100%;
 }
 
@@ -51,7 +51,7 @@ nav{
     height: 29.9052px;
     margin: 0 auto;
     margin-bottom: 32.8989px;
-    background-image: url(../img/heart.png);
+    background-image: url(../Img/heart.png);
     background-size: 100% 100%;
 }
 
@@ -59,7 +59,7 @@ nav{
     width: 37.0807px;
     height: 38.592px;
     margin: 0 auto;
-    background-image: url(../img/shoppingBasket.png);
+    background-image: url(../Img/shoppingBasket.png);
     background-size: 100% 100%;
 }
 
@@ -70,7 +70,7 @@ nav{
     position: absolute;
     left: 10px;
     bottom: 0;
-    background-image: url(../img/helpBot.png);
+    background-image: url(../Img/helpBot.png);
     background-size: 100% 100%;
 }
 
@@ -153,7 +153,7 @@ section{
     width: 314.0234px;
     height: 45.2803px;
     margin: 0 auto;
-    background-image: url(../img/newarrival.png);
+    background-image: url(../Img/newarrival.png);
     background-size: 100% 100%;
 }
 
