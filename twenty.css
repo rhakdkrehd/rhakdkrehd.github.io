@@ -54,7 +54,7 @@ nav{
     height: 33.9024px;
     margin: 0 auto;
     margin-bottom: 32.8989px;
-    background-image: url(../img/%EC%9E%90%EC%82%B0%203.png);
+    background-image: url(twentyImg/myPage.png);
     background-size: 100% 100%;
 }
 
@@ -63,7 +63,7 @@ nav{
     height: 29.9052px;
     margin: 0 auto;
     margin-bottom: 32.8989px;
-    background-image: url(../img/%EC%9E%90%EC%82%B0%204.png);
+    background-image: url(twentyImg/heart.png);
     background-size: 100% 100%;
 }
 
@@ -71,7 +71,7 @@ nav{
     width: 37.0807px;
     height: 38.592px;
     margin: 0 auto;
-    background-image: url(../img/%EC%9E%90%EC%82%B0%205.png);
+    background-image: url(twentyImg/shoppingBasket.png);
     background-size: 100% 100%;
 }
 
@@ -82,7 +82,7 @@ nav{
     position: absolute;
     left: 10px;
     bottom: 0;
-    background-image: url(../img/%EC%9E%90%EC%82%B0%206.png);
+    background-image: url(twentyImg/helpBot.png);
     background-size: 100% 100%;
 }
 
@@ -152,6 +152,6 @@ section{
     width: 314.0234px;
     height: 45.2803px;
     margin: 0 auto;
-    background-image: url(../img/%EC%9E%90%EC%82%B0%207.png);
+    background-image: url(twentyImg/newarrival.png);
     background-size: 100% 100%;
 }
